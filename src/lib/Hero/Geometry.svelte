@@ -21,7 +21,7 @@
     // { color: 0x1abc9c, roughness: 0.1 },
     // { color: 0x2980b9, roughness: 0, metalness: 0.5 },
     { color: 0x2c3e50, roughness: 0.1, metalness: 0.5 },
-     { color: "purple", roughness: 0.1, metalness: 0.5 },
+    //  { color: "purple", roughness: 0.1, metalness: 0.5 },
     { color: 0xffd700, roughness: 0.2, metalness: 1 }, // Shiny gold
   { color: 0xc0c0c0, roughness: 0.1, metalness: 1 }, // Polished silver
   { color: 0xb87333, roughness: 0.3, metalness: 0.9 }, // Copper

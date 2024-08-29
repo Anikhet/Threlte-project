@@ -32,7 +32,7 @@
 {#if isMobile}
   <Threlte.DirectionalLight 
     position={[10, 10, 20]} 
-    intensity={23}
+    intensity={40}
     castShadow 
   />
 

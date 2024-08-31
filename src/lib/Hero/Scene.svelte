@@ -4,7 +4,7 @@
   </script>
   
 
-  <div id="canvas-container" class="w-[75vw] md:h-[100vh] h-[200vw]    ">
+  <div id="canvas-container" class="w-[85vw] md:h-[100vh] h-[200vw]    ">
     
       <Canvas shadows>
         

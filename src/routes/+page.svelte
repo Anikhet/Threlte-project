@@ -2,6 +2,10 @@
   import Scene from "../lib/Hero/Scene.svelte";
   import { onMount } from "svelte";
   import gsap from "gsap";
+  import LocomotiveScroll from 'locomotive-scroll';
+const locomotiveScroll = new LocomotiveScroll();
+
+
 
   onMount(() => {
     const timeline = gsap.timeline();
@@ -55,11 +59,11 @@
       <Scene />
     
   </div>
+
+<div class=" h-36 bg-red-400 rounded-t-full  rounded-tr-full "></div>
+
 </div>
 
 <style>
-  /* Optional custom styles for tweaking animation impact */
-  .scene-container {
-    transform-origin: center; /* Ensures rotation happens centrally */
-  }
+
 </style>

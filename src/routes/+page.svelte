@@ -2,8 +2,7 @@
   import Scene from "../lib/Hero/Scene.svelte";
   import { onMount } from "svelte";
   import gsap from "gsap";
-  import LocomotiveScroll from 'locomotive-scroll';
-const locomotiveScroll = new LocomotiveScroll();
+
 
 
 
